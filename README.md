@@ -1,5 +1,5 @@
 # Introduction
-Aggregated Documentation for New Generation Motors Corp.(NGM)/Nugen Mobility Inc.(Nugen) Products
+Aggregated Documentation for New Generation Motors Corp.(NGM)/Nugen Mobility Inc.(NuGen) Products
 
 # Products
 
